@@ -1,2 +1,3 @@
-# Cancer_Prediction-Model
-This project involves building a Breast Cancer Prediction Model using Logistic Regression to classify tumors as malignant (cancerous) or benign (non-cancerous) based on features derived from fine needle aspirates of breast masses.
+# Cancer Prediction Model
+<br>
+This project involves building a Breast Cancer Prediction Model using Logistic Regression to classify tumors as malignant (cancerous) or benign (non-cancerous) based on features derived from fine needle aspirates of breast masses. The dataset contains 30 numerical features, including radius, texture, perimeter, area, and shape-related characteristics of cell nuclei. It consists of 569 samples, with 357 benign and 212 malignant cases, and has no missing values. Logistic regression is used for its effectiveness in binary classification tasks. The model aims to assist in early cancer diagnosis by accurately predicting tumor types, which can help healthcare professionals make timely and informed decisions.
